@@ -1,9 +1,5 @@
 # gDriveUpload
 
-Team Members:
-MS21928406 - W.B.M Kularatne 
-MS22904478 - M.A.L.C Siriwardena
-
 ------------------- Application GUIDE --------------------
 
 01. Open project folder using Visual studio code
