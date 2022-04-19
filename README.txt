@@ -1,4 +1,8 @@
-# gSDriveUpload
+# gDriveUpload
+
+Team Members:
+MS21928406 - W.B.M Kularatne 
+MS22904478 - M.A.L.C Siriwardena
 
 ------------------- Application GUIDE --------------------
 
@@ -16,7 +20,10 @@
 
 --------------------------- :) ---------------------------
 
-You tube video link - https://www.youtube.com/watch?v=ZNEConiQVY0
+GitHub code - https://github.com/MKularatne/SS_Assignment_2
+Youtube url - https://www.youtube.com/watch?v=ZNEConiQVY0
+
+
 
 
 
